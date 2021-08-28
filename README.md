@@ -1,0 +1,2 @@
+# zeno
+Discord music bot
